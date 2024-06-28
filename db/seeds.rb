@@ -18,7 +18,7 @@ Product.create!([
     price: 8.99,
     stock: 50,
     supplier_name: 'Le Roi du Burger',
-    image_url: 'https://source.unsplash.com/random/300x300?burger',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718984542/Classic_burger_mbg7hw.webp',
     ingredients: 'Pain, viande de boeuf, fromage, laitue, tomate, cornichons, sauce spéciale'
   },
   {
@@ -28,7 +28,7 @@ Product.create!([
     price: 7.49,
     stock: 40,
     supplier_name: 'Chez Ali Baba',
-    image_url: 'https://source.unsplash.com/random/300x300?kebab',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985475/kebab1_mlvnnl.webp',
     ingredients: 'Pain pita, viande, salade, tomates, oignons, sauce blanche'
   },
   {
@@ -38,7 +38,7 @@ Product.create!([
     price: 9.99,
     stock: 30,
     supplier_name: 'Pizza Palace',
-    image_url: 'https://source.unsplash.com/random/300x300?pizza',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985494/Pizza_classic_agrh4i.webp',
     ingredients: 'Pâte à pizza, sauce tomate, mozzarella, basilic'
   },
   {
@@ -48,7 +48,7 @@ Product.create!([
     price: 6.99,
     stock: 25,
     supplier_name: 'Wrap & Roll',
-    image_url: 'https://source.unsplash.com/random/300x300?wrap',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985438/wrap_poulet_dsuv0i.webp',
     ingredients: 'Tortilla, poulet grillé, laitue, tomate, sauce au yaourt'
   },
   {
@@ -58,7 +58,7 @@ Product.create!([
     price: 5.99,
     stock: 45,
     supplier_name: 'El Tacos Loco',
-    image_url: 'https://source.unsplash.com/random/300x300?tacos',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985437/tacos_mexicain_ta6deb.webp',
     ingredients: 'Tortilla, boeuf haché, haricots, maïs, fromage cheddar'
   },
   {
@@ -68,7 +68,7 @@ Product.create!([
     price: 4.99,
     stock: 35,
     supplier_name: 'Sandwich Club',
-    image_url: 'https://source.unsplash.com/random/300x300?sandwich',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985509/sandwich_thon_qtgmzu.webp',
     ingredients: 'Pain, thon, mayonnaise, laitue, tomates, concombres'
   },
   {
@@ -78,7 +78,7 @@ Product.create!([
     price: 7.99,
     stock: 20,
     supplier_name: 'Salade & Vous',
-    image_url: 'https://source.unsplash.com/random/300x300?salad',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985505/salade_cesar_aimdan.webp',
     ingredients: 'Laitue romaine, poulet grillé, croûtons, parmesan, sauce César'
   },
   {
@@ -88,7 +88,7 @@ Product.create!([
     price: 3.99,
     stock: 50,
     supplier_name: 'Hot Dog Express',
-    image_url: 'https://source.unsplash.com/random/300x300?hotdog',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985429/hot_dog_pszk1a.webp',
     ingredients: 'Pain à hot dog, saucisse, oignons caramélisés, moutarde'
   },
   {
@@ -98,7 +98,7 @@ Product.create!([
     price: 8.49,
     stock: 30,
     supplier_name: 'Green Burger',
-    image_url: 'https://source.unsplash.com/random/300x300?veggie-burger',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985410/buerger_vege_exlgai.webp',
     ingredients: 'Pain, steak de légumes, fromage, laitue, tomate, oignons, sauce spéciale'
   },
   {
@@ -108,7 +108,7 @@ Product.create!([
     price: 10.49,
     stock: 25,
     supplier_name: 'Pepperoni Party',
-    image_url: 'https://source.unsplash.com/random/300x300?pepperoni-pizza',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985436/pizza_peperoni_qqarkn.webp',
     ingredients: 'Pâte à pizza, sauce tomate, mozzarella, pepperoni'
   },
   {
@@ -118,7 +118,7 @@ Product.create!([
     price: 6.49,
     stock: 40,
     supplier_name: 'Falafel Fiesta',
-    image_url: 'https://source.unsplash.com/random/300x300?falafel',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985397/wrap_vege_hd96qh.webp',
     ingredients: 'Tortilla, falafels, laitue, tomate, concombre, sauce tahini'
   },
   {
@@ -128,7 +128,7 @@ Product.create!([
     price: 8.99,
     stock: 15,
     supplier_name: 'Nice Salade',
-    image_url: 'https://source.unsplash.com/random/300x300?nicoise-salad',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985392/salade_thon_hnprxu.webp',
     ingredients: 'Laitue, thon, oeufs durs, olives, haricots verts, tomates'
   },
   {
@@ -138,7 +138,7 @@ Product.create!([
     price: 5.49,
     stock: 30,
     supplier_name: 'Panini Passion',
-    image_url: 'https://source.unsplash.com/random/300x300?panini',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985377/panini_poulet_jet50u.webp',
     ingredients: 'Pain ciabatta, poulet grillé, fromage, sauce barbecue'
   },
   {
@@ -148,7 +148,7 @@ Product.create!([
     price: 7.99,
     stock: 35,
     supplier_name: 'Cheesy Kebab',
-    image_url: 'https://source.unsplash.com/random/300x300?cheese-kebab',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985384/kebab2_dlrc0t.webp',
     ingredients: 'Pain pita, viande, fromage, salade, tomates, oignons'
   },
   {
@@ -158,7 +158,7 @@ Product.create!([
     price: 11.49,
     stock: 20,
     supplier_name: 'Fromage Frenzy',
-    image_url: 'https://source.unsplash.com/random/300x300?four-cheese-pizza',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985393/pizza_fromage_td4zoi.webp',
     ingredients: 'Pâte à pizza, sauce tomate, mozzarella, gorgonzola, chèvre, parmesan'
   },
   {
@@ -168,7 +168,7 @@ Product.create!([
     price: 8.99,
     stock: 45,
     supplier_name: 'Poulet Burger',
-    image_url: 'https://source.unsplash.com/random/300x300?chicken-burger',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985358/panini_legume_fc1mra.webp',
     ingredients: 'Pain, poulet frit, fromage, laitue, tomate, sauce épicée'
   },
   {
@@ -178,7 +178,7 @@ Product.create!([
     price: 6.99,
     stock: 30,
     supplier_name: 'Veggie Wraps',
-    image_url: 'https://source.unsplash.com/random/300x300?vegetarian-wrap',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985397/wrap_vege_hd96qh.webp',
     ingredients: 'Tortilla, légumes grillés, houmous, sauce tahini'
   },
   {
@@ -188,7 +188,7 @@ Product.create!([
     price: 7.49,
     stock: 25,
     supplier_name: 'Grec Saladier',
-    image_url: 'https://source.unsplash.com/random/300x300?greek-salad',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985394/salade_grec_woqku1.webp',
     ingredients: 'Laitue, olives, feta, tomates, concombres, oignons rouges'
   },
   {
@@ -198,7 +198,7 @@ Product.create!([
     price: 4.49,
     stock: 50,
     supplier_name: 'Cheesy Hot Dogs',
-    image_url: 'https://source.unsplash.com/random/300x300?cheese-hotdog',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985398/hot_dog2_qaoacr.webp',
     ingredients: 'Pain à hot dog, saucisse, fromage, oignons frits'
   },
   {
@@ -208,7 +208,7 @@ Product.create!([
     price: 9.49,
     stock: 35,
     supplier_name: 'Veggie Delight',
-    image_url: 'https://source.unsplash.com/random/300x300?vegetarian-pizza',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985356/pizza_vege_uf69ev.webp',
     ingredients: 'Pâte à pizza, sauce tomate, mozzarella, légumes grillés'
   },
   {
@@ -218,7 +218,7 @@ Product.create!([
     price: 6.99,
     stock: 40,
     supplier_name: 'Chicken Tacos',
-    image_url: 'https://source.unsplash.com/random/300x300?chicken-tacos',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985358/tacos_poulet_kptapu.webp',
     ingredients: 'Tortilla, poulet grillé, laitue, tomates, oignons, sauce épicée'
   },
   {
@@ -228,7 +228,7 @@ Product.create!([
     price: 4.99,
     stock: 35,
     supplier_name: 'Hammy Sandwiches',
-    image_url: 'https://source.unsplash.com/random/300x300?ham-sandwich',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985334/sandwich_jambon_xebkfl.webp',
     ingredients: 'Pain, jambon, fromage, laitue, tomate, moutarde'
   },
   {
@@ -238,7 +238,7 @@ Product.create!([
     price: 5.99,
     stock: 25,
     supplier_name: 'Veggie Panini',
-    image_url: 'https://source.unsplash.com/random/300x300?vegetarian-panini',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985358/panini_legume_fc1mra.webp',
     ingredients: 'Pain ciabatta, légumes grillés, fromage de chèvre, sauce pesto'
   },
   {
@@ -248,7 +248,7 @@ Product.create!([
     price: 7.99,
     stock: 30,
     supplier_name: 'Fish Burger Co.',
-    image_url: 'https://source.unsplash.com/random/300x300?fish-burger',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985312/burger_poisson_pdulgz.webp',
     ingredients: 'Pain, filet de poisson pané, fromage, laitue, tomate, sauce tartare'
   },
   {
@@ -258,7 +258,7 @@ Product.create!([
     price: 6.99,
     stock: 20,
     supplier_name: 'Veggie Kebab House',
-    image_url: 'https://source.unsplash.com/random/300x300?vegetarian-kebab',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985313/kebab_vege_xalnt9.webp',
     ingredients: 'Pain pita, légumes grillés, houmous, sauce épicée'
   },
   {
@@ -268,7 +268,7 @@ Product.create!([
     price: 5.99,
     stock: 30,
     supplier_name: 'Tuna Wraps R Us',
-    image_url: 'https://source.unsplash.com/random/300x300?tuna-wrap',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985292/wrap_thon_bmvylu.webp',
     ingredients: 'Tortilla, thon, mayonnaise, laitue, tomate, concombre, citron'
   },
   {
@@ -278,7 +278,7 @@ Product.create!([
     price: 9.99,
     stock: 15,
     supplier_name: 'Seafood Salads',
-    image_url: 'https://source.unsplash.com/random/300x300?seafood-salad',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985298/salade_crevette_v63su6.webp',
     ingredients: 'Laitue, crevettes, crabe, tomates, concombres, vinaigrette citronnée'
   },
   {
@@ -288,7 +288,7 @@ Product.create!([
     price: 3.99,
     stock: 45,
     supplier_name: 'Veggie Dogs',
-    image_url: 'https://source.unsplash.com/random/300x300?vegetarian-hotdog',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985288/hot_dog3_vwx1j6.webp',
     ingredients: 'Pain à hot dog, saucisse végétarienne, oignons frits, ketchup'
   },
   {
@@ -298,7 +298,7 @@ Product.create!([
     price: 10.49,
     stock: 20,
     supplier_name: 'Hawaii Pizza',
-    image_url: 'https://source.unsplash.com/random/300x300?hawaiian-pizza',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985283/pizza_hawai_nustjn.webp',
     ingredients: 'Pâte à pizza, sauce tomate, mozzarella, jambon, ananas'
   },
   {
@@ -308,7 +308,7 @@ Product.create!([
     price: 9.49,
     stock: 40,
     supplier_name: 'Bacon Burgers',
-    image_url: 'https://source.unsplash.com/random/300x300?bacon-burger',
+    image_url: 'https://res.cloudinary.com/dev4ufvrb/image/upload/v1718985280/burger_bacon_zxcehz.webp',
     ingredients: 'Pain, bacon, viande de boeuf, fromage, laitue, tomate, sauce barbecue'
   }
 ])
